@@ -1,0 +1,510 @@
+id	tweet	level 1	level2	level3	source
+717385393268789248	"Vedo che c'è molta disinformazione sul referendum del 17 maggio.
+[@MisterDonnie13]"	VRAI	IMPLICIT	IM:FALSE ASSERTION	Spinoza
+717333997106372609	"Leo Messi: ""Firmo quello che mi dice papà"". Pure la Boschi.
+[notturnoconcertante]"	VRAI	EXPLICIT	ANALOGY	Spinoza
+717003679858077696	"I pm di Potenza incontrano Maria Elena Boschi. L’inchiesta era partita con questo obiettivo.
+
+[CONTINUA su https://t.co/oDPUtx2DvV]"	VRAI	IMPLICIT	IM:FALSE ASSERTION	Spinoza
+715823437302919168	"È morto l'autore di ""E se domani"". E sottolineo morto.
+[pietro angelio]"	VRAI	EXPLICIT	OTHER	Spinoza
+715637553920098309	"In fondo il ministro Guidi ha solo dirottato una legge per amore.
+[@pirata_21]"	VRAI	IMPLICIT	EUPHEMISM	Spinoza
+715484033136795648	Scusate, sapete chi ha ucciso Regeni oggi?	VRAI	IMPLICIT	RHETORICAL QUESTION	Spinoza
+714821082637795332	"Dirotta un aereo per la ex moglie. ""Ti avevo detto un elicottero!""
+[@giggidelirio]"	VRAI	EXPLICIT	EX:OXIMORON PARADOX	Spinoza
+713322754645364737	"Caso Regeni, l'Egitto risponde ai dubbi: ""Se non vi piacciono questi colpevoli, possiamo sempre cambiarli"".
+[@misterdonnie13]"	VRAI	EXPLICIT	EX:OXIMORON PARADOX	Spinoza
+712963402705072128	"Se negli aeroporti italiani mettessero bombe nelle valigie, esploderebbe la casa dell'addetto ai bagagli.
+[tamagone]"	VRAI	IMPLICIT	OTHER	Spinoza
+712585348434366464	"Salvini: ""Ero all'aeroporto, la polizia mi ha fermato"". L'ordine era di bloccare i fanatici che vogliono distruggere l'Europa.
+[@gmbugs]"	VRAI	IMPLICIT	ANALOGY	Spinoza
+711486511481495552	"Roma, tifoso dello Sparta Praga urina su una mendicante. Bel tentativo, ma uno straniero non può diventare sindaco. 
+[@milingopapa]"	VRAI	IMPLICIT	IM:FALSE ASSERTION	Spinoza
+711130736867328000	"Arrestato Salah: era rimasto nascosto per mesi in un appartamento. Poi ha messo su un disco di Fedez.
+[@Rego_tweet]"	VRAI	IMPLICIT	IM:FALSE ASSERTION	Spinoza
+710893036448956417	"Francesca Pascale: ""La Meloni è una fascista moderna"". Farà jogging su Roma.
+[@gmbugs]"	VRAI	IMPLICIT	ANALOGY	Spinoza
+710741860222955520	"Piersilvio Berlusconi condannato a un anno e due mesi di carcere. ""Guardami papà!""
+[@paniruro]"	VRAI	EXPLICIT	ANALOGY	Spinoza
+710032765195055104	"Renzi: ""Le mie riforme un bacio all'Italia addormentata"". È il metodo Bill Cosby.
+[@Giurgitte]"	VRAI	IMPLICIT	ANALOGY	Spinoza
+709740140063821825	"Adinolfi: ""Kung fu Panda minaccia la famiglia tradizionale"". Di solito è la donna ad avere gli occhi neri. 
+[@a_mazed7]"	VRAI	EXPLICIT	EX:OXIMORON PARADOX	Spinoza
+709390644486258690	"Roma, Bertolaso porta 50.000 persone ai gazebo. All'Aquila c'era riuscito con i tendoni.
+[@leomorabito]"	VRAI	EXPLICIT	ANALOGY	Spinoza
+708639257154490370	"Salvini cancella un tweet che incitava a sparare ai giudici, poi si scusa: ""Lo staff ha sbagliato"". A cancellarlo.
+[@maurofodaroni]"	VRAI	EXPLICIT	EX:OXIMORON PARADOX	Spinoza
+708227232125337600	"Consigliere comunale M5S sorpreso a rubare negli armadietti della palestra. Li apriva come una scatoletta di tonno.
+[@Goemon_SM]"	VRAI	IMPLICIT	ANALOGY	Spinoza
+707239251549757440	"Putin: ""Le donne ci danno la vita"". Specialmente se fanno inchieste su di lui.
+[@pirata_21]"	VRAI	IMPLICIT	OTHER	Spinoza
+706931486105149440	"Gentiloni accoglie i due ostaggi italiani sopravvissuti: ""Chi non muore si rivede!""
+[@montales1]"	VRAI	EXPLICIT	EX:CONTEXT SHIFT	Spinoza
+706103674792185856	"Berlusconi: ""Per gli aquilani io e Bertolaso siamo come la Madonna e Gesù"". Inesistenti.
+[malerba]"	VRAI	EXPLICIT	ANALOGY	Spinoza
+705796231088447488	"L'Italia attende spiegazioni da così tanti paesi che comincio a pensare che le nostre richieste finiscano nello spam.
+[@ilmagodifloz]"	VRAI	EXPLICIT	EX:CONTEXT SHIFT	Spinoza
+705400967970361344	"Omicidio stradale, 18 anni di carcere a chi fugge. A questo punto conviene sparare ai testimoni.
+[@goemon_sm]"	VRAI	EXPLICIT	HYPERBOLE	Spinoza
+705119670899187712	"Al bar della Camera si dovrà pagare la consumazione in anticipo. Indignati i parlamentari: ""È contro natura!""
+[@pirata_21]"	VRAI	EXPLICIT	EX:CONTEXT SHIFT	Spinoza
+704695594749706241	"Sapendo come vanno le cose da quelle parti, tra poco il piccolo Tobia dovrebbe annunciare la scissione da Vendola.
+[@MisterDonnie13]"	VRAI	IMPLICIT	ANALOGY	Spinoza
+702930415611453441	"Alfano: ""Il limite della politica è la natura"". E il limite della natura è Alfano.
+[pollo]"	VRAI	EXPLICIT	ANALOGY	Spinoza
+701830330962079744	"Egitto, ricercatore italiano torturato a morte. Volevano farlo sentire a casa.
+
+[CONTINUA su https://t.co/oDPUtx2DvV]"	VRAI	EXPLICIT	EX:OXIMORON PARADOX	Spinoza
+701123861660745728	"Umberto Eco era un grande studioso del Medioevo. Che beffa andarsene proprio ora che stava tornando.
+[@gmbugs]"	VRAI	EXPLICIT	EX:OXIMORON PARADOX	Spinoza
+700321444186759168	"Il disegno di legge sulle unioni civili slitta di una settimana. Adesso siamo in ritardo di settant'anni e una settimana.
+[@foisluca84]"	VRAI	EXPLICIT	OTHER	Spinoza
+699605193739137024	"Ho capito che era successo qualcosa di brutto quando sono passato davanti al Pirellone e ho trovato tutte le finestre spente.
+[@fdecollibus]"	VRAI	IMPLICIT	IM:FALSE ASSERTION	Spinoza
+697385924125192193	"Sallusti e Santanchè sono per le unioni naturali. Anche se non si direbbe.
+
+[CONTINUA su https://t.co/oDPUtx2DvV]"	VRAI	IMPLICIT	OTHER	Spinoza
+697168044213342208	"La Pausini farà il tour degli stadi. Un po' come l'Inter.
+[@straccameriggi_]"	VRAI	EXPLICIT	ANALOGY	Spinoza
+697126204118298624	"Il Papa: ""Non confondiamo le unioni civili con i matrimoni"". Nel primo caso si continua a scopare.
+
+[CONTINUA su https://t.co/5YjhdXaYuS]"	VRAI	EXPLICIT	EX:CONTEXT SHIFT	Spinoza
+696616033600344064	"Primarie di Milano, Sala batte i due candidati di sinistra. La prossima volta proveranno con tre.
+[@MisterDonnie13]"	VRAI	EXPLICIT	OTHER	Spinoza
+696299117576900608	"Milano, grande affluenza di cinesi alle primarie Pd. Finalmente qualcosa di sinistra.
+[guli1979]"	VRAI	IMPLICIT	ANALOGY	Spinoza
+695617614484238336	"Sulla morte di Giulio Regeni l'Italia chiede all'Egitto indagini congiunte. Metti che alla fine i depistaggi non coincidano.
+[@_edelman]"	VRAI	EXPLICIT	EX:OXIMORON PARADOX	Spinoza
+695521767239114752	"Legge Cirinnà, dialogo tra M5S e Vaticano. Mi immagino quanta scienza.
+[@pirata_21]"	VRAI	EXPLICIT	OTHER	Spinoza
+695168543646707712	"Scilipoti legge i passi della Bibbia contro gli omosessuali. Chissà Dio cosa gli ha offerto in cambio.
+[@fdecollibus]"	VRAI	IMPLICIT	RHETORICAL QUESTION	Spinoza
+694813537852588032	"Avete notato? Sono già passati tre giorni, e sulla gravidanza della Meloni ancora non è arrivata alcuna rivendicazione.
+[@leomorabito]"	VRAI	EXPLICIT	EX:CONTEXT SHIFT	Spinoza
+694121768181747712	"Sanremo, esplode la villa in cui alloggiava Gabriel Garko. Ma niente, non cambia espressione nemmeno così.
+[@Daniele_Zip]"	VRAI	EXPLICIT	EX:CONTEXT SHIFT	Spinoza
+693387853582172161	"Maroni: ""Utilizzeremo le finestre del Pirellone per altre iniziative"". Come facevano alla questura di Milano.
+[@pirata_21]"	VRAI	EXPLICIT	ANALOGY	Spinoza
+692626363359039488	"Gli amici di Rouhani, per il suo compleanno, gli fanno la sorpresa della ragazza che entra nella torta.
+[@MisterDonnie13]"	VRAI	IMPLICIT	OTHER	Spinoza
+692035352488460289	"La figlia del marò Latorre è lesbica. Visto cosa succede quando manca la figura paterna?
+[@dan11meancactus]"	VRAI	EXPLICIT	RHETORICAL QUESTION	Spinoza
+691944490735669249	"Un fucile giocattolo riesce a seminare il panico. Speriamo funzioni anche con gli F-35.
+[@frandiben]"	VRAI	IMPLICIT	ANALOGY	Spinoza
+691647823771783168	"Accoltella il compagno della ex dopo averla invitata a ""C'è posta per te."" Quindi aveva già dato segni di squilibrio.
+[@pirata_21]"	VRAI	EXPLICIT	EX:CONTEXT SHIFT	Spinoza
+691310630712819712	"Io a quelli che sono contro le unioni omosessuali gli bloccherei la categoria ""lesbian"".
+[@Daniele_Zip]"	VRAI	EXPLICIT	EX:OXIMORON PARADOX	Spinoza
+690873831624409089	"Non male l'idea di usare un palazzo degli anni '50 per comunicare, con un sistema degli anni '10, un messaggio del 1200.
+[@lowerome]"	VRAI	IMPLICIT	EUPHEMISM	Spinoza
+690129610969866240	"Di omosessualità si discute in parlamento, in chiesa e ora anche nel calcio. A casa è ancora troppo pericoloso.
+[@maurizioneri79]"	VRAI	EXPLICIT	EX:CONTEXT SHIFT	Spinoza
+689441450505871360	"L'Alzheimer si può diagnosticare dall'odore delle urine. Soprattutto se l'odore arriva dalla teiera.
+[@NaimaV]"	VRAI	EXPLICIT	EX:OXIMORON PARADOX	Spinoza
+688691992105218048	"Unioni civili, Pd diviso tra il ""No"" e il ""Sia chiaro che ho un sacco di amici gay"".
+[guli1979]"	VRAI	EXPLICIT	EX:OXIMORON PARADOX	Spinoza
+687215900278288384	"Bergoglio presenta il suo libro: ""Nessun peccato è troppo grande per Dio"". E i cardinali dietro a battersi il cinque.
+[@frandiben]"	VRAI	EXPLICIT	EX:CONTEXT SHIFT	Spinoza
+686592679984115712	"Per rispetto verso la morte di David Bowie oggi le altre cose hanno smesso di succedere.
+[@blogstark]"	VRAI	EXPLICIT	EX:OXIMORON PARADOX	Spinoza
+685529532674260996	"Nuove misure sull'immigrazione: sui confini europei verrà scritto ""Per colpa di qualcuno non entra più nessuno"".
+[@frandiben]"	VRAI	IMPLICIT	OTHER	Spinoza
+685131655707799552	"Parigi, ucciso uomo con una cintura esplosiva finta. Ora lo aspettano 72 bambole gonfiabili.
+[@venividi_wc]"	VRAI	IMPLICIT	ANALOGY	Spinoza
+684771698265186304	"Ringraziamo la Corea del Nord per il tentativo ma niente, qui si continua a parlare di Checco Zalone.
+[@MestMuttee]"	VRAI	EXPLICIT	EX:CONTEXT SHIFT	Spinoza
+684746967235334144	"Presto un tweet potrà contenere fino a 10 mila caratteri. L'obiettivo è tenere occupato Renzi.
+[@theliecoach]"	VRAI	IMPLICIT	IM:FALSE ASSERTION	Spinoza
+684446408297082882	"Roma, uomo nudo nella basilica di San Pietro. Continua il tour di Grignani.
+[@pirata_21]"	VRAI	IMPLICIT	OTHER	Spinoza
+683965267689472000	"Ilaria Cucchi posta la foto di un carabiniere indagato. Voleva sapere cosa si prova a stare dalla parte del torto.
+[@7semola]"	VRAI	IMPLICIT	IM:FALSE ASSERTION	Spinoza
+683965267689472000	"La Rai si scusa dopo la diretta di capodanno. ""Amadeus era quello che costava meno"".
+[@pirata_21]"	VRAI	IMPLICIT	IM:FALSE ASSERTION	Spinoza
+682538510725853184	"Mattarella stasera parlerà per la prima volta agli italiani. Hanno trovato l’interruttore.
+
+[Il meglio del 2015, su https://t.co/oDPUtx2DvV]"	VRAI	EXPLICIT	EX:OXIMORON PARADOX	Spinoza
+682157391836770304	"Morto in un incidente il più stretto collaboratore di Kim Jong-un. Ora dovranno farlo sembrare un omicidio.
+[@leomorabito]"	VRAI	EXPLICIT	EX:OXIMORON PARADOX	Spinoza
+681851429246648320	"Salvini: ""Dei conigli si sono introdotti nella mia pagina Fb"". Ma era piena di merda anche prima.
+
+[CONTINUA su https://t.co/oDPUtx2DvV]"	VRAI	EXPLICIT	HYPERBOLE	Spinoza
+681840428073771014	"Fine anno, Renzi parla all'Italia: ""Anche se restiamo soli io e te, per me va comunque benissimo"".
+[@TheAubergine]"	VRAI	IMPLICIT	IM:FALSE ASSERTION	Spinoza
+681592468140343298	"Sandro Bondi: ""Vorrei essere dimenticato"". Ecco, hai rovinato tutto.
+[@LaiMassimiliano]"	VRAI	EXPLICIT	OTHER	Spinoza
+681535785468866560	"Salvini: “Il blocco del traffico è una cazzata”. A meno che non riguardi il Mediterraneo.
+
+[CONTINUA su https://t.co/oDPUtx2DvV]"	VRAI	EXPLICIT	EX:CONTEXT SHIFT	Spinoza
+681429257944449024	"Papa Francesco: ""Perdonare rende più pulito il mondo"". ""Poche storie, lei ha la targa dispari"".
+[karmax]"	VRAI	EXPLICIT	EX:CONTEXT SHIFT	Spinoza
+680814211782565890	"È morto l'uomo più grasso del mondo. Peccato perché dal 7 gennaio sarebbe andato in palestra.
+[@pirata_21]"	VRAI	EXPLICIT	EX:OXIMORON PARADOX	Spinoza
+680341102457655296	"Il Papa: ""Gesù invita alla sobrietà"". Da oggi chinotto in tutte le messe.
+[@blogstark]"	VRAI	EXPLICIT	EX:CONTEXT SHIFT	Spinoza
+679999611847733248	"Il marò Latorre: ""Essere in Italia non esime da sofferenze"". Ha messo Canale 5 di pomeriggio.
+[@pirata_21]"	VRAI	IMPLICIT	IM:FALSE ASSERTION	Spinoza
+677774351870087168	"Sgarbi ricoverato d'urgenza a Modena: ""Ero a mezz'ora dalla morte"". Bel modo di definire Piacenza.
+[@fdecollibus]"	VRAI	EXPLICIT	ANALOGY	Spinoza
+677131469010137088	"Gelli dichiarò che sarebbe morto fascista. Ci teneva che festeggiassimo due volte. 
+[@Goemon_SM]"	VRAI	EXPLICIT	EX:OXIMORON PARADOX	Spinoza
+676746831800500224	"Renzi: ""Speculare su un morto fa schifo"". Finalmente una presa di posizione sul Giubileo.
+[acid rain]"	VRAI	EXPLICIT	EX:CONTEXT SHIFT	Spinoza
+676082656531111936	"Samantha Cristoforetti non va alla Leopolda. Sa già che non c'è vita.
+[@Milingopapa]"	VRAI	EXPLICIT	EX:CONTEXT SHIFT	Spinoza
+676010272939778048	"Arabia Saudita, elette quattro donne. Ora vai a capire quali.
+[@pirata_21]"	VRAI	EXPLICIT	EX:OXIMORON PARADOX	Spinoza
+674543896152641536	"Il Papa si ferma a parlare con gli invalidi. ""Come vi trovate con Mihajlovic?""
+[@Fedeok7]"	VRAI	EXPLICIT	EX:CONTEXT SHIFT	Spinoza
+673096195951185921	"Esce il film su papa Francesco. Preceduto dal corto su papa Luciani.
+[@Goemon_SM]"	VRAI	IMPLICIT	OTHER	Spinoza
+672104992468295680	"Il Papa: ""I preservativi? Il vero problema dell'Africa è la malnutrizione"". Storica apertura all'ingoio.
+[@MisterDonnie13]"	VRAI	EXPLICIT	EX:CONTEXT SHIFT	Spinoza
+671987626367414272	"L'Inps: ""I trentenni andranno in pensione a 75 anni"". Quindi da vecchi i cantieri li vedremo da dentro.
+[@theliecoach]"	VRAI	EXPLICIT	EX:OXIMORON PARADOX	Spinoza
+671739518760960001	"Ok al crocifisso nelle aule scolastiche, purché non sbuffi durante l'ora di scienze.
+[@frandiben]"	VRAI	EXPLICIT	EX:OXIMORON PARADOX	Spinoza
+671646326472450048	"Metal detector in Vaticano. Finalmente li vedremo svuotare le tasche.
+
+[CONTINUA su https://t.co/oDPUtx2DvV]"	VRAI	EXPLICIT	EX:CONTEXT SHIFT	Spinoza
+671408293580038145	"Roma sarà No fly zone per tutto il Giubileo. Se poi arriva Gesù si attacca al cazzo.
+
+[CONTINUA su https://t.co/oDPUtx2DvV]"	VRAI	EXPLICIT	EX:CONTEXT SHIFT	Spinoza
+671349493892255744	"Salvini all'Isis: ""Ho fatto un anno di servizio miltare"". Aggiungi un anno di judo e si arrendono.
+
+[CONTINUA su https://t.co/oDPUtx2DvV]"	VRAI	EXPLICIT	EX:OXIMORON PARADOX	Spinoza
+671288801583620096	"Isis, un'intercettazione semina il panico. ""Cosa fate a capodanno?""
+[@lefasanate]"	VRAI	EXPLICIT	EX:CONTEXT SHIFT	Spinoza
+670685987731820544	"Ucciso il leader degli avvocati curdi. Tanto gli erano rimasti pochi clienti.
+[arthur rombò]"	VRAI	EXPLICIT	EUPHEMISM	Spinoza
+669559243364790272	"Presentata la nuova Fiat Tipo prodotta in Turchia. Ah no, sono i resti dell'aereo.
+[@blogstark]"	VRAI	EXPLICIT	EX: CONTEXT SHIFT	Spinoza
+669169913144197120	"Per spiegare a mia nonna che cosa sta succedendo le ho detto che hanno sparato all'arciduca Francesco Ferdinando.
+[@gmbugs]"	VRAI	IMPLICIT	HYPERBOLE	Spinoza
+669132760657825792	"La Turchia abbatte un aereo russo. E finalmente Erdogan ce lo siamo tolto dalle palle.
+[@Daniele_Zip]"	VRAI	IMPLICIT	OTHER	Spinoza
+668858911055872004	"Facciamo che ""Il Papa prega per la pace"" lo diamo per scontato ed evitiamo di ricordarlo in ogni tg?
+[@frandiben]"	VRAI	EXPLICIT	RHETORICAL QUESTION	Spinoza
+668741602848989184	"A Bruxelles chiusi cinema, teatri e molti ristoranti. Per far sentire l'Isis come a casa.
+[@gmbugs]"	VRAI	EXPLICIT	EX:OXIMORON PARADOX	Spinoza
+668025009059835904	"Allarme a Milano: trovata in via Montenapoleone una busta Oviesse.
+[@serena_gandhi]"	VRAI	IMPLICIT	IM:FALSE ASSERTION	Spinoza
+667772901546967041	"Sono riusciti a cambiare le nostre abitudini. Siamo al punto che se lasci la borsa su una panchina non la prende nessuno.
+[@maurizioneri79]"	VRAI	EXPLICIT	OTHER	Spinoza
+667683482454368256	"Attacco di estremisti in Mali. Si temono estremi rimedi.
+[@montales1]"	VRAI	EXPLICIT	OTHER	Spinoza
+667251900107067392	"Agnese Renzi tampona un camion. Urlando ""Matteo è grande!""
+[@Rego_tweet]"	VRAI	IMPLICIT	IM:FALSE ASSERTION	Spinoza
+667010602334818304	"Anche una donna si fa saltare in aria. È la versione terrorista di ""No, niente"".
+[@batduccio]"	VRAI	IMPLICIT	OTHER	Spinoza
+666227020112797697	"Di uno dei kamikaze di Parigi è rimasto solo un dito. E tutti stanno guardando quello.
+[@Goemon_SM]"	VRAI	EXPLICIT	OTHER	Spinoza
+665873313751801856	"Alfano in tv rassicura gli italiani: ""Da noi non c'è nessuna Parigi"".
+[giga]"	VRAI	EXPLICIT	EX:OXIMORON PARADOX	Spinoza
+665545656346505217	"Stavo per farmi un bidet, poi mi hanno fermato ricordandomi che siamo di nuovo tutti francesi.
+[@Cinimaniaco]"	VRAI	IMPLICIT	IM:FALSE ASSERTION	Spinoza
+665496662488543232	"Se Allah esistesse veramente, oggi sarebbe piccolissimo.
+[acid rain]"	VRAI	EXPLICIT	EX:OXIMORON PARADOX	Spinoza
+665122387998973952	"L'ex abate di Montecassino assumeva ecstasy. Se ricordo come funziona, ora bisogna chiudere l'abbazia.
+[@MisterDonnie13]"	VRAI	EXPLICIT	EX:CONTEXT SHIFT	Spinoza
+133849038243110912	[News] Mario Monti a capo del Governo tecnico? Come avere un marziano a Roma http://t.co/AXBIpvL7	VRAI	EXPLICIT	ANALOGY	Sentipolc14
+134341884591083521	Secondo me nel governo #Monti ci mettono pure Bini Smaghi. Così Sarkozy e' contento. E poi basta, pero'.	VRAI	IMPLICIT	IM:FALSE ASSERTION	Sentipolc14
+134375354855997440	Governo Monti Python?	VRAI	EXPLICIT	ANALOGY	Sentipolc14
+134388731259006976	Mario Monti? non era il nome di un antipasto? #FullMonti #laresadeiconti #elezioni #308	VRAI	EXPLICIT	RHETORICAL QUESTION	Sentipolc14
+134400875954315264	Merkel, Sarkozy, ti sorridono i #Mario Monti... Merkel, Sarkozy, le caprette ti fanno ciao	VRAI	IMPLICIT	ANALOGY	Sentipolc14
+134403213712560128	Vedo che la gente sta accogliendo Mario Monti come fosse il Messia. Chissà se sarà lo stesso quando toccherà pesantemente i loro portafogli!	VRAI	EXPLICIT	EX:CONTEXT SHIFT	Sentipolc14
+134429795860758530	@masechi Si è già assistito a Porta a Porta alla simulazione di un governo Monti con ministri La Russa e Bindi. Aberrazione audiovisiva.	VRAI	EXPLICIT	EX:OXIMORON PARADOX	Sentipolc14
+134559889413509120	arriva Mario #Monti: pronti a mettere tutti il grembiulino?	VRAI	IMPLICIT	RHETORICAL QUESTION	Sentipolc14
+134563814925549568	Di Pietro dice no al governo Monti, mi sembra già di rivedere l'Ulivo e la sua simpatica caciara @Idvstaff #FullMonti	VRAI	IMPLICIT	ANALOGY	Sentipolc14
+134570389690003456	Mario, Monti sulla #cadrega	VRAI	EXPLICIT	EX:CONTEXT SHIFT	Sentipolc14
+134600925070368768	Berlusconi dice sì al governo Monti. Del resto, è un'ammucchiata. #fb	VRAI	IMPLICIT	HYPERBOLE	Sentipolc14
+134604963061039105	Da mesi protestiamo e chiediamo mari e monti, non Mario #Monti capo del governo. #elezioni subito	VRAI	EXPLICIT	ANALOGY	Sentipolc14
+134613359151693826	Gelmini,brunetta,sacconi,rotondi,gli ex an uscirebbero dal pdl in caso governo monti,il solito culo di b che se ne libererebbe finalmente!	VRAI	EXPLICIT	EX:OXIMORON PARADOX	Sentipolc14
+134685200977362944	http://t.co/MXOON3vY ihihihi vai col Governo Monti, ministro all'economia Laura Pausini (come sono bravo a usare i #TT mammamà...)	VRAI	IMPLICIT	IM:FALSE ASSERTION	Sentipolc14
+134711722924711938	Totoministri per il governo Monti: Gelmini ai lavori pubblici, farà il tunnel dei neutrini!	VRAI	IMPLICIT	IM:FALSE ASSERTION	Sentipolc14
+134716785390923777	@specchionero Mario Monti, Manco Morti, non ti piace? :P	VRAI	IMPLICIT	RHETORICAL QUESTION	Sentipolc14
+134730612593532928	pieni poteri a Mario Monti. In effetti quale governo può essere più appropriato di un Full Monty x questo paese (ispired by @ossimorobiondo)	VRAI	EXPLICIT	ANALOGY	Sentipolc14
+134737200515514368	caro Mario Monti,se vai su e sistemi un pò di robe ricordati di mettere via I strada a senso unico e della nuova piscina alla Trave...	VRAI	EXPLICIT	OTHER	Sentipolc14
+134743970776485890	Il governo #Monti mi ricorda la corazzata kotiokmin	VRAI	EXPLICIT	ANALOGY	Sentipolc14
+134750320298430464	Giuliano Amato ministro nel governo Monti? Ma che roba è l'Italia, una cazzo di macchina del tempo? Si va sempre indietro e mai avanti.	VRAI	EXPLICIT	RHETORICAL QUESTION	Sentipolc14
+134760365971079168	Governo #Monti: il #Pd ha l'occasione per diventare finalmente il Pd http://t.co/dcDBC6Bn Ottimo @smenichini	VRAI	EXPLICIT	HYPERBOLE	Sentipolc14
+134763379175866369	Dice che se il prossimo governo #Monti non te convince, sei anti-italiano e non vuoi bene manco a #Napolitano... e manco a Gesù.	VRAI	EXPLICIT	HYPERBOLE	Sentipolc14
+134896493487333376	#fatepresto si ma non a pene di segugio! Governo #Monti istituzionale ma che i ministri siano tecnici competenti e non di #casta	VRAI	EXPLICIT	OTHER	Sentipolc14
+134945200278745088	@SBartezzaghi: #anagr #comedire MARIO MONTI Ampio è lo spread, imperioso è il richiamo: / vada al governo, così RIMONTIAMO.	VRAI	IMPLICIT	OTHER	Sentipolc14
+134946044822818816	Mario Monti il messia, accolto in Senato da un lungo applauso: Mario Monti, il messia italiano, è stato accolto... http://t.co/lKtUlE3s	VRAI	EXPLICIT	HYPERBOLE	Sentipolc14
+134948453947158528	anagrammando Mario Monti noi #rimontiamo. Spread 480, la borsa rifiata e il mio mal di gola migliora.	VRAI	EXPLICIT	ANALOGY	Sentipolc14
+134978070271635456	Fantagoverno. Fabio Volo, Giovanni Sartori, Roberto Saviano: ecco il governo dei Migliori Mario Monti... http://t.co/lGU6FMg1	VRAI	EXPLICIT	EX:OXIMORON PARADOX	Sentipolc14
+135269047536324608	#rimontiamo Bisognerebbe essere veri banditi per sabotare un governo Monti . I requisiti ci sono (Ellekappa)	VRAI	EXPLICIT	EX:OXIMORON PARADOX	Sentipolc14
+135339838294589440	governo monti con gianni letta, pd perplesso. Ma che vogliono? Non esagerate sennò ci mettiamo @matteorenzi	VRAI	IMPLICIT	RHETORICAL QUESTION	Sentipolc14
+135365125057150976	Bersani al gruppo sintetizza la linea rispetto al governo monti: o si va a messa o si sta a casa.Noi andiamo a messa per il bene dell'italia	VRAI	EXPLICIT	EX:OXIMORON PARADOX	Sentipolc14
+135386394792173568	@Rainews24: Pausa in albergo per il senatore a vita, Mario Monti, dopo la colazione di lavoro con Berlusconi. PRANZO PESANTE #finecorsa	VRAI	IMPLICIT	ANALOGY	Sentipolc14
+135398924075810817	Intanto Bersani dice che il Governo Monti non rappresenterebbe la sconfitta della politica ma o si va a messa, o si sta a casa #giaguari	VRAI	IMPLICIT	OTHER	Sentipolc14
+135430946253049856	#rimontiamo Governo #Monti fatto di soli tecnici . Amato agli Esteri...cos'è che non mi torna? #settevitecomeigatti	VRAI	EXPLICIT	RHETORICAL QUESTION	Sentipolc14
+135465235623587843	Vi immaginate se stanotte a Mario Monti gli prende un coccolone ma a non muore, si riduce come Bossi? #aeiouy #capodannoitaliano	VRAI	EXPLICIT	ANALOGY	Sentipolc14
+135466132927807488	E vai adesso con Mario Monti/Superman, crisi finita, stipendi in aumento, e riforme. Grazie Stato! Se non ci fossi bisognerebbe inventarti!	VRAI	EXPLICIT	EX:OXIMORON PARADOX	Sentipolc14
+135664015471943680	@Linkiesta: Raffaele Lombardo appoggia il governo Monti e chiede ai giornalisti: domande? 1: licenzierete un po' di gente in regione?	VRAI	EXPLICIT	EX:OXIMORON PARADOX	Sentipolc14
+136008108160991232	Ho molta fiducia nel nuovo Governo Monti. Più o meno la stessa che ripongo in mia madre che tenta di inviare un'email.	VRAI	EXPLICIT	HYPERBOLE	Sentipolc14
+136040029683322882	Mario Monti nativo digitale? @riccardowired #hbw2011	VRAI	IMPLICIT	RHETORICAL QUESTION	Sentipolc14
+136109253743218688	La Cisl ''sosterrà a piene mani'' il governo Monti. Adesso ho paura davvero #oramonti	VRAI	IMPLICIT	HYPERBOLE	Sentipolc14
+136171493339041792	Panico al Tg1: ma chi caxxo è Mario Monti? http://t.co/Jc8mQpYo via @giornalettismo	VRAI	EXPLICIT	RHETORICAL QUESTION	Sentipolc14
+136176171556667392	Botta di ottimismo a #lInfedele: Governo Monti, o la va o la spacca.	VRAI	EXPLICIT	EX:OXIMORON PARADOX	Sentipolc14
+136339007066996736	Mario Monti ha detto che sarà un periodo di sacrifici...e te pareva... @NicoSavi @triomedusa @sarofiorello	VRAI	EXPLICIT	EX:CONTEXT SHIFT	Sentipolc14
+136341205150732288	Governo Monti: aspetta e spread il titolo di oggi di #agorarai ci piace, tipo scarrafone ecc. ecc.	VRAI	EXPLICIT	EX:CONTEXT SHIFT	Sentipolc14
+136370998890078208	Speriamo che non ci Monti tutti... Almeno Berlusca era etero... #governo #monti #berlusconi #oramonti #ilpiùgrandespettacolodopoilweekend	VRAI	IMPLICIT	HYPERBOLE	Sentipolc14
+136537548993478656	Su rai1 la partita dell'Italia non è criptata per gli utenti SKY: il primo vero effetto del governo monti?	VRAI	EXPLICIT	RHETORICAL QUESTION	Sentipolc14
+136551902199558144	ma scusate quanta incoerenza e ambiguità ci possono stare in uno che si chiama mario monti?	VRAI	EXPLICIT	RHETORICAL QUESTION	Sentipolc14
+136718063306412032	Indiscrezioni Governo Monti: Passera per lo sviluppo pare sia una richiesta particolare di Berlusconi.	VRAI	IMPLICIT	IM:FALSE ASSERTION	Sentipolc14
+136746086906855424	Mario Monti ha lasciato il suo albergo a Monti ...ma sti giornalisti ogni tanto non si vergognano?	VRAI	EXPLICIT	RHETORICAL QUESTION	Sentipolc14
+136759756760154112	@francescocosta: «Che mi chiami Marione proprio non lo sopporto» (qualche aneddoto su Mario Monti) http://t.co/foic31ZS @bosconauta	VRAI	EXPLICIT	OTHER	Sentipolc14
+136772978116542465	Ornaghi, Cancellieri e Severino. Il Governo #Monti preannunciato dagli studenti. Come i temi della maturità	VRAI	EXPLICIT	ANALOGY	Sentipolc14
+136779421959991296	@flavia_marzano Mario Monti dice le parolacce	VRAI	IMPLICIT	IM:FALSE ASSERTION	Sentipolc14
+136782919967571968	@palazzochigi Professor Monti, c'è una certa attesa per la lista #ministri. Senza fretta, però tenga conto della nostra ansia..	VRAI	EXPLICIT	EUPHEMISM	Sentipolc14
+136788057692192769	Governo monti: saranno famosi!	VRAI	IMPLICIT	OTHER	Sentipolc14
+136788210922692608	nominato il nuovo gorverno dal Premier Mario Monti tutto ok c'è della PASSERA anche in questo, heheheheheheheheheheheh	VRAI	EXPLICIT	EX:CONTEXT SHIFT	Sentipolc14
+136794139089059841	Passera nel governo Monti? E dov'è la novità? Nel governo nanico di passera ce n'era a quintali!	VRAI	EXPLICIT	ANALOGY	Sentipolc14
+136794334027710465	Rifondazione comunista non appoggia il governo Monti. Esistono ancora? O rly?	VRAI	EXPLICIT	RHETORICAL QUESTION	Sentipolc14
+136796437357928449	È nato il governo Monti: Passera super-ministro, Il dopo Berlusconi ha sempre la solita costante	VRAI	IMPLICIT	OTHER	Sentipolc14
+136810270692610048	Ma adesso andrà di moda essere della Lega, visto l'aria di buonismo e trasversalità che c'è intorno al governo Monti ?	VRAI	EXPLICIT	HYPERBOLE	Sentipolc14
+136837287320367105	Governo Monti/Passera, un compromesso con Il partito della Gnocca di Silvio Berlusconi?	VRAI	EXPLICIT	RHETORICAL QUESTION	Sentipolc14
+136841491850076162	E' davvero scandaloso che nel nuovo governo Monti non ci sia nemmeno una mignotta o qualche indagato per mafia! #ministri #monti #colle	VRAI	EXPLICIT	HYPERBOLE	Sentipolc14
+136842534377897984	la lega non approva il governo #Monti. e sti cazzi!	VRAI	EXPLICIT	EX:CONTEXT SHIFT	Sentipolc14
+136843969211547648	Pure Passera si può definire un membro del governo? #monti	VRAI	EXPLICIT	EX:CONTEXT SHIFT	Sentipolc14
+136859329172213761	Il Governo Monti di fatto conferma la linea del Governo Berlusconi: La Passera è sempre la cosa più importante...	VRAI	EXPLICIT	EX:CONTEXT SHIFT	Sentipolc14
+136865293204070401	Ma che altro vuole lo #Spread? Gli abbiamo tolto #Berlusconi, gli abbiamo dato il governo #Monti, ora potrebbe anche lasciarci vivere!	VRAI	EXPLICIT	RHETORICAL QUESTION	Sentipolc14
+136881218661793792	Il vecchio governo paragonato al governo #monti sembra il cast di un film di lino banfi e Renzo montagnani rispetto ad uno di scorsese	VRAI	EXPLICIT	ANALOGY	Sentipolc14
+136893857127342080	formato il nuovo governo Monti. Che Dio ce la mandi tecnicamente buona.	VRAI	EXPLICIT	OTHER	Sentipolc14
+136894083212918784	#Governo #Monti: il divino Otelma #ministro dell' #Economia	VRAI	IMPLICIT	IM:FALSE ASSERTION	Sentipolc14
+136922394551001088	Mario Monti ha già fatto un miracolo: gli indignati della Sapienza alleati con Sallusti nellla denuncia del complotto tecno massonico.	VRAI	IMPLICIT	HYPERBOLE	Sentipolc14
+136943278548451329	i MINISTRI DEL GOVERNO MONTI: SONO GIOVANI, MA SI FARANNO?	VRAI	IMPLICIT	RHETORICAL QUESTION	Sentipolc14
+136951776682315777	desidero esprimere tutto il mio sostegno al governo Monti Python	VRAI	EXPLICIT	HYPERBOLE	Sentipolc14
+137046873847508992	Il Governo Monti parte....c'è larga BANCA INTESA. http://t.co/x0u6nt7b	VRAI	EXPLICIT	EX:OXIMORON PARADOX	Sentipolc14
+137076580949295104	Nuovo governo monti: dal bunga bunga al banca banca ...	VRAI	EXPLICIT	EX:OXIMORON PARADOX	Sentipolc14
+137087234473078785	Nessuno dei #ministri del governo #monti é del sud Italia e la #lega nn voterà la fiducia... #soncose	VRAI	IMPLICIT	OTHER	Sentipolc14
+137175546764337153	@EdoardoCamurri Avrai apprezzato il titolo di Agorà di questa mattina. Governo Monti: dieci e loden.	VRAI	IMPLICIT	ANALOGY	Sentipolc14
+137496253406777345	La destinazione delle vacanze e' il solo problema che non riuscira' a risolvere l'ottimo concergie Mario Monti.	VRAI	IMPLICIT	ANALOGY	Sentipolc14
+137526135025184768	Berlusca ha problemi di doppia personalità: ha appena smentito (in viva voce) di potere/volere staccare la spina al Governo #Monti .	VRAI	IMPLICIT	ANALOGY	Sentipolc14
+138013806193410049	Bersani: «Governo Monti punti al cuore degli italiani». Il fegato se lo sono rovinati col governo Berlusconi.	VRAI	EXPLICIT	ANALOGY	Sentipolc14
+138515518389891072	Il governo Monti? Sobro ma affamato E' già rissa per le poltrone di seconda fila http://t.co/mezFGQNn #ilG	VRAI	EXPLICIT	EX:OXIMORON PARADOX	Sentipolc14
+139186822424182784	Mario Monti regalaci un sogno un Italia normale cornetto e caffè al Bar Dello Sport Grazie... http://t.co/JHwZ11QJ	VRAI	EXPLICIT	EUPHEMISM	Sentipolc14
+139675345069678592	@Microsatira: Mario Monti e Sara Tommasi sono usciti entrambi dalla Bocconi. Lui a testa alta, lei a 90 !	VRAI	EXPLICIT	EX:OXIMORON PARADOX	Sentipolc14
+140065866413899776	Bossi: «Il governo Monti fa schifo, sono improvvisati». Il trota invece, e Calderoli, mirabili statisti.	VRAI	EXPLICIT	EX:OXIMORON PARADOX	Sentipolc14
+141216991934562305	Limone nell'ano per lui, capitone vivo per lei. Prime indiscrezioni sui provvedimenti del governo #Monti. http://t.co/8ov9eYQz #sapevatelo	VRAI	IMPLICIT	IM:FALSE ASSERTION	Sentipolc14
+141256103932600320	Avvincente la nomina dei sottosegretari del governo Monti. Che tanto mica abbiamo problemi più seri...noooo, noooooo...	VRAI	IMPLICIT	EUPHEMISM	Sentipolc14
+141593292960825344	Mario Monti....la mia è una disponibilità generosa per guidare il governo.....quanto ci costa questa generosità? 20mila o 30mila al mese?	VRAI	EXPLICIT	EX:OXIMORON PARADOX	Sentipolc14
+141836821767262208	Egregio Professor Monti, pagherò volentieri la tassa sui cani che mantengo a casa, se mi toglierà la tassa sui maiali che mantengo a Roma...	VRAI	EXPLICIT	EX:OXIMORON PARADOX	Sentipolc14
+142282437941133313	Questo non è un paese per giovani. Avrei voluto che la prima riforma del governo #Monti fosse stata quella del lavoro, non delle pensioni.	VRAI	EXPLICIT	OTHER	Sentipolc14
+142339380147798016	Brunetta sostiene di tornare a fare l'economista, Mario Monti terrorizzato progetta di mollare tutto ed aprire un negozio di pescheria	VRAI	IMPLICIT	IM:FALSE ASSERTION	Sentipolc14
+142662630774022145	Mario Monti spiegherà le riforme prima a Porta a Porta e poi in Parlamento http://t.co/XYau6k5z	VRAI	IMPLICIT	IM:FALSE ASSERTION	Sentipolc14
+142855240771829760	Professor #Monti pare che per trovare #equità nella #manovra ci sia bisogno di una lente d'ingrandimento... dov'è la #crescita ?	VRAI	EXPLICIT	RHETORICAL QUESTION	Sentipolc14
+142903009704284161	Sono ricco, ma solo per il Governo Monti... Purtroppo	VRAI	EXPLICIT	EX:OXIMORON PARADOX	Sentipolc14
+143393513910960128	Ma se il governo monti è ostaggio di una politica stantia e di una maggioranza trasversale di inette testedicazzo che cazzo ce sta a fa?	VRAI	IMPLICIT	RHETORICAL QUESTION	Sentipolc14
+143408537404583936	TAGLI AI POLITICI? MA DOVE? GOVERNO MONTI, SPARATI!	VRAI	EXPLICIT	RHETORICAL QUESTION	Sentipolc14
+143421718227206144	Qualche volta se piove merda e qualcuno deve metterci un ombrello e chi chiamerai? #Mario #Monti	VRAI	IMPLICIT	RHETORICAL QUESTION	Sentipolc14
+143423480241729536	@SerenellaM: Giarda è il Wolf del governo #Monti: corregge gli erroriil ministro orecchione e occhialone	VRAI	EXPLICIT	ANALOGY	Sentipolc14
+143423553130344450	Lo so, è cattivo e ininfluente, ma il governo Monti é composto da brutta gente, brutti più della malattia. Saranno bravi eh, ma brutti	VRAI	IMPLICIT	ANALOGY	Sentipolc14
+143837270343036928	CARO MARIO MONTI, VAI DA VESPA A FIRMARE ANCHE TU'?	VRAI	IMPLICIT	RHETORICAL QUESTION	Sentipolc14
+144018850130825216	#Scilipoti sta manifestanto davanti alla Camera contro il limite di utlizzo dei contanti deciso dal governo Monti. Non è uno scherzo. Giuro	VRAI	EXPLICIT	RHETORICAL QUESTION	Sentipolc14
+144035543322329088	Tra le decisioni del governo Monti aumento della benzina di 10cent e del gasolio di 12cent da gennaio. Siete contenti ITALIOTI ?	VRAI	EXPLICIT	RHETORICAL QUESTION	Sentipolc14
+144155627248287744	#Ballarò Maroni rimprovera il governo monti di fare cassa, mi chiedo dove stesse quando con quattro manovre hanno fatto cassa e scasso	VRAI	EXPLICIT	RHETORICAL QUESTION	Sentipolc14
+144157045615104000	che simpatica la Gelmini! Il governo #Monti prosegue quello che aveva iniziato il governo Berlusconi nei 3 anni precedenti! Ma infatti!	VRAI	EXPLICIT	ANALOGY	Sentipolc14
+144189212541988866	L'UNICO PRELIEVO CHE MANCA AL GOVERNO MONTI, E' QUELLO DEL SANGUE!	VRAI	EXPLICIT	HYPERBOLE	Sentipolc14
+144343695003619328	Pare che il governo Monti, nella sua sobrietà e pacatezza, invierà a tutti un buono omaggio per l'acquisto di una confezione di crema Luan	VRAI	EXPLICIT	EX:OXIMORON PARADOX	Sentipolc14
+144373653549744128	Toh, il governo #Monti piace più della scorsa settimana. Che è successo? La Bilderberg ha truccato i sondaggi? http://t.co/oVihZWwP	VRAI	EXPLICIT	RHETORICAL QUESTION	Sentipolc14
+144919466491392000	Un manifestante #NoTav chiede a Cicchitto cosa farebbe il #PDL se il governo #Monti toccasse le TV di Berlusconi... KABOOM! #PiazzaPulita	VRAI	IMPLICIT	ANALOGY	Sentipolc14
+145265841141854209	Nella lista del #sacrificio il governo Monti ha (casualmente) lasciato fuori anche la Chiesa oltre gli Onorevoli , @MaxNapolitano eh?	VRAI	EXPLICIT	EUPHEMISM	Sentipolc14
+145459045271207936	Ballo Musica Arte Sport e Arredo: Manovra finanziaria Governo Monti http://t.co/tGwZFzbB	VRAI	EXPLICIT	EX:OXIMORON PARADOX	Sentipolc14
+145653380931530752	Trovato l'ispiratore delle ricette del governo Monti: Bisogna prendere il denaro dove si trova. Presso i poveri.... http://t.co/sh54bMiN	VRAI	EXPLICIT	EX:OXIMORON PARADOX	Sentipolc14
+145906394942554112	quand'è che Mario #Monti in treno non farà più notizia? #mobbastaveramenteperò http://t.co/GtMmOT57 via @repubblicait	VRAI	IMPLICIT	RHETORICAL QUESTION	Sentipolc14
+146153000098996224	NOI TIREREMO DIRITTO..chi lo ha detto?Mussolini?No.Il governo Monti.	VRAI	EXPLICIT	EX:OXIMORON PARADOX	Sentipolc14
+146306463130849280	: abbiamo voluto la bicicletta (il Governo Monti), ed ora si deve pedalare...	VRAI	EXPLICIT	ANALOGY	Sentipolc14
+146370619523608576	Ballo Musica Arte Sport e Arredo: Manovra finanziaria Governo Monti http://t.co/tGwZFzbB	VRAI	EXPLICIT	EX:OXIMORON PARADOX	Sentipolc14
+146631909219381248	Un altro prodigio del governo Monti: imposta bollo sui conti correnti,34 euro di tassa sui conti correnti. #MANOVRA #monti #tasse	VRAI	EXPLICIT	HYPERBOLE	Sentipolc14
+146635452315742209	Governo Monti crolla sulle liberalizzazioni. Taxisti-Monti 1-0. La Lagrimosa Elsa si sgonfia sulle pensioni. Trilateral out.	VRAI	EXPLICIT	ANALOGY	Sentipolc14
+146653940400918528	@PaoloGentiloni di equità non se vede per niente. Colpiti tutti senza distinzioni. Complimenti al professor Monti.	VRAI	IMPLICIT	IM:FALSE ASSERTION	Sentipolc14
+146665825087131648	c'é solo una cosa peggiore degli stipendi d'oro della politica; i servizi del #tg5 indignato, come se ci fossero solo col governo #monti.	VRAI	EXPLICIT	ANALOGY	Sentipolc14
+146686736771198976	Il governo Monti: un bel ragazzo che si spaccia per grande seduttore, lasciando poi con l'amaro in bocca dopo una eiaculazione precoce #fb	VRAI	EXPLICIT	ANALOGY	Sentipolc14
+147003932600840192	Governo Monti, tu Ci SMONTI!. By Luigi	VRAI	EXPLICIT	EX:CONTEXT SHIFT	Sentipolc14
+147024361302405120	Nuovo post sul mio blog: Il governo Monti si può mandare anche a Monte! http://t.co/viuanqG8	VRAI	EXPLICIT	OTHER	Sentipolc14
+147028712162983936	Non aspettare che il Governo Monti prenda anche i tuoi regali di Natale... Corri da noi, e potrai trovare IDEE REGALO a partire da 10€...	VRAI	EXPLICIT	EX:OXIMORON PARADOX	Sentipolc14
+147316822725763072	Governo Monti, Università,Natale... ij k mal e cap....	VRAI	EXPLICIT	OTHER	Sentipolc14
+147336530959142913	La via per uscire dalla crisi per la Bce è a senso unico; la manovra varata dal governo #Monti sembra andare contromano http://t.co/9dsDeqjA	VRAI	EXPLICIT	EX:CONTEXT SHIFT	Sentipolc14
+147422325275504640	L'unica cosa buona del governo Monti è che non ci sorbiamo più il nano. Adesso però andiamo a votare per favore! #serviziopubblico	VRAI	EXPLICIT	EUPHEMISM	Sentipolc14
+147645741140156416	Convincetemi che con governo #Monti non stiamo facendo come quelle sette che praticano suicidio di massa. In fiduciosa attesa	VRAI	EXPLICIT	EUPHEMISM	Sentipolc14
+147668441405472768	Il #governo #Monti arriverà a fine legislatura? #Bossi: Ma siete matti! da che pulpito,infatti siamo noi a credere che esiste la #PADANIA	VRAI	EXPLICIT	ANALOGY	Sentipolc14
+147702931859312640	Ferrero: BERLUSCONI CI HA PORTATO SULL'ORLO DEL BARATRO, COL GOVERNO MONTI PER FARE UN PASSO IN AVANTI! . Ormai... http://t.co/pulwWJvy	VRAI	EXPLICIT	EX:OXIMORON PARADOX	Sentipolc14
+147772088189583360	#specialecamera ma l'età media del governo Monti qual è? ;) #spazioaigiovani	VRAI	IMPLICIT	RHETORICAL QUESTION	Sentipolc14
+147787916339458048	Mario Monti per la manovra ha chiesto tempo al Tempo, ma il Tempo gli ha risposto Non ne ho più . E lui si è incazzato #supermario	VRAI	EXPLICIT	EX:CONTEXT SHIFT	Sentipolc14
+148695984925442048	Kim Jong é morto. Come nuovo Premier, si parla insistentemente di Mario Monti	VRAI	IMPLICIT	IM:FALSE ASSERTION	Sentipolc14
+149221519556485120	Napolitano difende il governo Monti? Ci mancherebbe, lo ha fatto lui!	VRAI	EXPLICIT	RHETORICAL QUESTION	Sentipolc14
+150172396597428224	la politica sulla crescita del governo Monti è più criptica degli errori di Windows sul registro eventi.	VRAI	EXPLICIT	EX:CONTEXT SHIFT	Sentipolc14
+150212448513818624	SI A MONTE MARIO.....NO A MARIO MONTI http://t.co/XVaaX1X9	VRAI	EXPLICIT	ANALOGY	Sentipolc14
+150533351890108417	Secondo voi, con quella faccia antipatica, Mario #Monti, si sarà mai divertito nella sua vita?	VRAI	EXPLICIT	RHETORICAL QUESTION	Sentipolc14
+150542635126366208	Storace sarcastico: Spread a 515, bravi a Pd e Pdl : ROMA – ''16 novembre, giura il governo Monti, spread tra t... http://t.co/aaI7Vfzw	VRAI	IMPLICIT	IM:FALSE ASSERTION	Sentipolc14
+150964160874815488	Uau mario monti ci fa il regalo dinatale e approda su twitter. Che culo.	VRAI	EXPLICIT	EX:CONTEXT SHIFT	Sentipolc14
+151310227097133056	@ReteViola: Una perla di ottimismo: Il successo più grande dell'euro è la Grecia (Mario Monti 26 settembre 2001) ...caspita!	VRAI	EXPLICIT	HYPERBOLE	Sentipolc14
+151691470145982464	al via la fase due del governo #Monti: la risata satanica.	VRAI	IMPLICIT	IM:FALSE ASSERTION	Sentipolc14
+151970667489796096	quando penso la governo #Monti mi viene in mente #longanesi e il suo ci salveranno le vecchie zie rileggetelo se potete...	VRAI	IMPLICIT	ANALOGY	Sentipolc14
+152348420919672832	Ecco ricordiamoci che prima del governo #Monti ce ne sono stati altri che forse hanno cagato fuori dal vaso. #conferenzastampa	VRAI	EXPLICIT	ANALOGY	Sentipolc14
+152385287094407168	In #conferenzastampa Governo Monti inviti al coraggio, equità, sostenibilità: tutte cose che non si mangiano. #hyperfail	VRAI	EXPLICIT	EX:CONTEXT SHIFT	Sentipolc14
+152465780330606592	Si dorme meglio con il Gran premio di formula 1, come sottofondo, o con la voce di Mario #Monti? E' tosta...	VRAI	EXPLICIT	RHETORICAL QUESTION	Sentipolc14
+152677662530355201	Voi avete qualche notiziuccia fresca sull'armata brancaleone?(governo Monti)	VRAI	EXPLICIT	ANALOGY	Sentipolc14
+153448227386040321	#Capodanno di botti... Ma quando entrerà a regime la #manovra del governo #Monti.... altro che botti !	VRAI	EXPLICIT	EX:CONTEXT SHIFT	Sentipolc14
+153540044920066048	La nuova sala stampa di Palazzo Chigi by Mario Monti e' degna della sala funerali del Cimitero Verano!	VRAI	EXPLICIT	HYPERBOLE	Sentipolc14
+153787789434028033	Bene, ecco che il governo Monti ci mette anche la tassa sulla botta di culo http://t.co/7N1h9M5I	VRAI	IMPLICIT	IM:FALSE ASSERTION	Sentipolc14
+153790458391298048	@BlitzQuotidiano Continua così #Super #Mario #Monti! A breve lavoreremo solo per risanare il PIL! A pranzo e cena veniamo a casa vostra!	VRAI	EXPLICIT	EX:OXIMORON PARADOX	Sentipolc14
+153798377149177856	Governo #Monti, mirabile esempio di sinergia fra Welfare e Infrastrutture: previsti nuovi ponti per alloggiare gli ex lavoratori.	VRAI	IMPLICIT	IM:FALSE ASSERTION	Sentipolc14
+153914160562962432	Rocco Siffredi é arrivato secondo agli Oscar del porno x essersi fatto più donne di tutti ma Mario Monti é arrivato 1mo x essersi in..tutti	VRAI	EXPLICIT	ANALOGY	Sentipolc14
+153947566344650752	@juanmjm RIFORMA: una delle tante che i partiti hanno imposto (ahahhha) al Governo Monti. #puttanate #campacavallochelerbacresce	VRAI	IMPLICIT	OTHER	Sentipolc14
+153955345411219456	@nataliacavalli Consolati, il governo #Monti ha messo una tassa sulla fortuna. Te non la pagherai mai. @imdade grazie per l'aiuto fratello!	VRAI	EXPLICIT	EUPHEMISM	Sentipolc14
+154148803140796416	Mario Monti, avresti potuto trasformare in palazzo questo bordello e invece ti sei limitato a ritruccare le battone che lo affollano.	VRAI	EXPLICIT	ANALOGY	Sentipolc14
+154222088599769088	Monito di Fassina al governo. #Monti, preoccupato, risponde: Oddio, e mo' questo chi è? http://t.co/4nTehDux via @notapolitica	VRAI	IMPLICIT	IM:FALSE ASSERTION	Sentipolc14
+154536137241800705	P.S. per Mario Monti: bisognerebbe ridurre un po' i giorni di ferie... migliorerebbe la qualità della vita di quelli che sono in ufficio...	VRAI	EXPLICIT	EX:OXIMORON PARADOX	Sentipolc14
+154687382954852355	@Iabicus: È evidente che Calderoli gestisce il personal branding di Mario Monti.	VRAI	IMPLICIT	IM:FALSE ASSERTION	Sentipolc14
+154910074035384321	Certo che il professor Monti poteva dare una mano alla moglie in cucina... E che c... #cotechinoelenticchie	VRAI	IMPLICIT	EUPHEMISM	Sentipolc14
+156092551424786432	Laura Pausini e poi il presidente del Consiglio Mario Monti @chetempochefa sceglie bene i suoi ospiti!	VRAI	EXPLICIT	EUPHEMISM	Sentipolc14
+156106882967277568	Ha detto Mario Monti che non bisogna vergognarsi ad esser ricchi. A chiamare un figlio Nathan Falco un poco sì, però eh?	VRAI	EXPLICIT	EX:CONTEXT SHIFT	Sentipolc14
+156108117900406785	E' un Governo strano: le cose si fanno Come scusi? Dicesi governo #Monti #chetempochefa	VRAI	IMPLICIT	RHETORICAL QUESTION	Sentipolc14
+156282073584381953	@guidomeda: Mario Monti non sa impennare hahaha :D	VRAI	IMPLICIT	ANALOGY	Sentipolc14
+156510214139551745	@alerizzo_: Governo Monti, professori in Italia, scolaretti in Europa(#Santanché). Sarà un po' meglio di puttanieri nel mondo? #l'infedele	VRAI	EXPLICIT	RHETORICAL QUESTION	Sentipolc14
+157401406683353088	Fa notizia Mario Monti, sorpreso alla guida senza cintura e al cellulare. Così ci sembra meno grave l'accusa per camorra all'on. Cosentino	VRAI	EXPLICIT	ANALOGY	Sentipolc14
+158228453974482945	A rischio il governo Monti, con la #concordia si va a fondo #giglio	VRAI	IMPLICIT	ANALOGY	Sentipolc14
+160103675598077953	Cosa intendo fare per i poveri ed i bisognosi? Una beata minchia. Cetto La Qualunque? No Mario Monti	VRAI	EXPLICIT	ANALOGY	Sentipolc14
+160426491371462656	il governo #Monti è riuscito a scontentare chi è contro le #liberalizzazioni e chi è a favore. Praticamente un miracolo. #retromarcia...	VRAI	EXPLICIT	EX:OXIMORON PARADOX	Sentipolc14
+160733198135992320	Mario Monti istituisce per i barboni, l'obbligo di emissione dello scontrino fiscale, in seguito ad eventuale elemosina ricevuta.	VRAI	EXPLICIT	EX:OXIMORON PARADOX	Sentipolc14
+160989913226035200	La frase di Mario Monti sul gesso da togliere all'economia italiana mi ricorda quelle convalescenze lunghe e tristi...	VRAI	EXPLICIT	ANALOGY	Sentipolc14
+161041041422680064	Chi dice che il governo Monti è una primavera ha un'idea approssimativa delle stagioni #assembleasel	VRAI	EXPLICIT	EUPHEMISM	Sentipolc14
+161456651499618304	al prossimo Cdm il governo #Monti proporrà l'abolizione del valore legale del titolo di studio..continuiamo a dire che è un gran bel governo	VRAI	EXPLICIT	EX:OXIMORON PARADOX	Sentipolc14
+161727810547888128	Il governo #Monti cerca una soluzione: i diplomatici italiani potranno partecipare a rock-concert nazisti, purché questi siano sobri	VRAI	IMPLICIT	IM:FALSE ASSERTION	Sentipolc14
+161733440767655937	Il governo #Monti cerca una soluzione: un diplomatico italiano potrà partecipare a rock-concert nazisti, purché sobri	VRAI	IMPLICIT	IM:FALSE ASSERTION	Sentipolc14
+161905206416769024	Il governo #Monti fino ad ora non avrà proprio spaccato ma vedere Feltri e Giannini che flirtano non ha prezzo	VRAI	IMPLICIT	ANALOGY	Sentipolc14
+162567340976902144	POI DICONO CHE I MATTI SONO AL MANICOMIO........NO AL GOVERNO MONTI...E' PERICOLOSISSIMO..............!	VRAI	EXPLICIT	HYPERBOLE	Sentipolc14
+162852940929961984	Uh, per la prima volta dopo secoli Olli Rehn dice qualcosa di positivo sull'Italia. Dobbiamo fare santo Mario Monti...	VRAI	EXPLICIT	HYPERBOLE	Sentipolc14
+162984935546814464	Se in meno di 2 mesi il governo #Monti ha fatto quello che ha fatto, allora vuol dire che chi c'era prima pensava ad altro, non dico a cosa!	VRAI	IMPLICIT	EUPHEMISM	Sentipolc14
+163302001856356352	Amici tranquilli che il 30 % degli italiani e fra le braccai dell'influenza, l'altro 70% risente dell'influenza del governo Monti :-)	VRAI	EXPLICIT	EX:CONTEXT SHIFT	Sentipolc14
+164066257879048193	I giorni della merla serviranno agli italiani per salutare per sempre quelli della passera. (Mario Monti)	VRAI	EXPLICIT	EX:CONTEXT SHIFT	Sentipolc14
+164460041406124032	Governo Monti: l' impossibile lo stiamo facendo per i miracoli ci stiamo attrezzando	VRAI	EXPLICIT	EX:OXIMORON PARADOX	Sentipolc14
+164791396870537216	La meteorologia non è colpa del governo #monti #openMatrix	VRAI	EXPLICIT	EX:CONTEXT SHIFT	Sentipolc14
+164982871155687425	Mario Monti: Il posto di lavoro fisso è monotono .Adesso Mario, aspettiamo solo che i vostri figli si licenzino e si aggreghino ai nostri...	VRAI	EXPLICIT	EUPHEMISM	Sentipolc14
+165020429189259264	Da ieri sera Mario Monti e' un senatore a vita monotona	VRAI	EXPLICIT	ANALOGY	Sentipolc14
+165020572777058306	Mario Monti....Munnezz #postofisso	VRAI	EXPLICIT	ANALOGY	Sentipolc14
+165081097124839425	Credo che Mario Monti abbia dei seri problemi con l'italiano...secondo me si é confuso con la parola utopico piuttosto che monotono!	VRAI	EXPLICIT	EUPHEMISM	Sentipolc14
+165103199244656640	Mario Monti Presidente del Consiglio: Il posto fisso è monotono . Mario Monti Senatore a vita: Non sono d'accordo . #postofisso	VRAI	EXPLICIT	EX:OXIMORON PARADOX	Sentipolc14
+165110427586531328	Caro mario #monti, bella battuta questa del #postofisso fa ridere AL CAZZO!	VRAI	EXPLICIT	HYPERBOLE	Sentipolc14
+165121033630781440	#monotonia sono i #tagli, le #privatizzazioni, gli attacchi ai #diritti del #governo #monti allora #sMONTIamoli http://t.co/s4MsSrko	VRAI	EXPLICIT	OTHER	Sentipolc14
+165128029591449600	#mario#monti il posto fisso e' noioso ma alle tue banche bastera' dire questo per prendere un mutuo? #forsel'haisparatagrossa	VRAI	EXPLICIT	RHETORICAL QUESTION	Sentipolc14
+165150142348017664	Fa schifo il posto fisso. Meglio 5 anni di parlamento ed avere la pensione d'oro a vita. Vero signor Mario? #monti	VRAI	EXPLICIT	RHETORICAL QUESTION	Sentipolc14
+165226854716940288	mario monti.. senatore a vita..piu posto fisso di cosi'..si muore.#postofisso	VRAI	EXPLICIT	ANALOGY	Sentipolc14
+165470310295015425	Con Mario Monti finisce perfino il tempo delle generose cugine pompinare.	VRAI	EXPLICIT	HYPERBOLE	Sentipolc14
+186742027868835840	#siamonoi che andremo a vivere sotto i ponti e inaugureremo una generazione dedita alla vita da clochard.	VRAI	EXPLICIT	EX:OXIMORON PARADOX	Sentipolc14
+186828589658931200	#Grillo scende in politica. Il Papa dichiara di voler fare il calciatore. Bruno vespa fara' la velina.	VRAI	IMPLICIT	IM:FALSE ASSERTION	Sentipolc14
+189836067027959808	Martina, sei il genio della lampada. Idea magnifica rimanere alzati fino a tardi sapendo che domani hai l'esame. E per deprimerti, poi. #off	VRAI	IMPLICIT	HYPERBOLE	Sentipolc14
+190063144004100097	@vitobrandi ora ti lascio che la giornata in ufficio inizia con una bella riunione. A dopo! Buona giornata!	VRAI	EXPLICIT	OTHER	Sentipolc14
+190424590793703425	@ani1202 no no nn sono tutti uguali. 1 su un milione e' diverso :-)) anziché la barba, ha i baffi	VRAI	EXPLICIT	EX:CONTEXT SHIFT	Sentipolc14
+190785654278459393	Pensa se alla fine di tutto sto casino viene fuori che Borghezio è l'unico onesto	VRAI	IMPLICIT	RHETORICAL QUESTION	Sentipolc14
+191247338344427520	muore qualcuno e improvvisamente tutti si ricordano della sua esistenza. #morosini	VRAI	EXPLICIT	EX:OXIMORON PARADOX	Sentipolc14
+191834814943469569	(Siete divertenti)Fino a ieri #Grillo e il #M5S non l'avete c..o, ora fa paura, e tutti addosso.	VRAI	EXPLICIT	EX:OXIMORON PARADOX	Sentipolc14
+191987176660156417	mancano 5.6 milioni di euro... SOLO! http://t.co/1c9gMIDe	VRAI	EXPLICIT	EUPHEMISM	Sentipolc14
+192045027344646144	\"#Grillo lo voto solo questa volta, tanto non può fare più di tanti danni.\" #erroredrammatico	VRAI	EXPLICIT	EUPHEMISM	Sentipolc14
+192233600534593538	@3tt0re davvero conosci OJS? l'uomo del mistero si infittisce... ;) mi picchio perche' ricopro tutti i ruoli, dal manager al proof :-D	VRAI	IMPLICIT	RHETORICAL QUESTION	Sentipolc14
+192332524645650432	#Grillo fa i comizi sulle cassette della frutta,mentre alcune del #Pdl li fanno senza cassetta...solo sulle banane. #ballarò @Italialand	VRAI	EXPLICIT	EX:CONTEXT SHIFT	Sentipolc14
+192571450203451394	Che poi, a guardare bene, l'unica differenza è che #Grillo è delNord, e #Cettolaqualunque del sud. Suv compresi.	VRAI	EXPLICIT	ANALOGY	Sentipolc14
+192575468338298880	Di #Grillo apprezzo la profondità di pensiero e i toni pacati, ma ora scusate, vado a fare il bucato con quella palla magica di merda.	VRAI	IMPLICIT	IM:FALSE ASSERTION	Sentipolc14
+193008212381937665	@CarloMarulli #Grillo è geniale, ha iniziato facendo la vittima con comizi a pagamento, ora ha messo su un franchising che va ancora meglio.	VRAI	EXPLICIT	ANALOGY	Sentipolc14
+193015379386302464	@Davide33 L'invenzione di Berlusconi: Ci saranno 2 PDL uno classico, uno zero corrotti. Si uniranno dopo le elezioni! http://t.co/vTE7YOWP	VRAI	EXPLICIT	EX:OXIMORON PARADOX	Sentipolc14
+193073343069552640	#serviziopubblico Grazie a #Renzi e #Grillo sono arrivato al record di ascolto di trasm. politiche negli ultimi tempi... ben 7' di dialoghi!	VRAI	EXPLICIT	EX:OXIMORON PARADOX	Sentipolc14
+193078921359659008	Io a #Grillo chiederei una cosa sola: ma i vestiti li lavi ancora con la biowashball? (Magari è il motivo per cui non rilascia interviste).	VRAI	EXPLICIT	EX:CONTEXT SHIFT	Sentipolc14
+193096322604220418	Immagino che #Grillo voglia farci uscire dall'Euro per tornare alla Dracma.	VRAI	EXPLICIT	ANALOGY	Sentipolc14
+193259823662497792	#Partito della Nazione l'ideona dei partiti per disinnescare #Grillo e continuare a prendere per culo gli italiani. Adesso siamo salvi!	VRAI	EXPLICIT	HYPERBOLE	Sentipolc14
+193283719493193728	il Partito della Nazione ed i suoi giurassici promotori: la risposta migliore ai detrattori di #Grillo . #sapevatelo #inmanoachistiamo	VRAI	IMPLICIT	ANALOGY	Sentipolc14
+193309284216487937	Ma veramente #Grillo ha detto che la soluzione alla crisi è uscire dall'Euro?? Ma allora è un genio dell'economia! Ah no un minchione!!	VRAI	EXPLICIT	EX:OXIMORON PARADOX	Sentipolc14
+193316527334891520	Alfano: \"Dopo le amministrative arriverà la più grande novità della politica italiana\". Ah, ve ne andate e sparite per sempre?	VRAI	EXPLICIT	EX:OXIMORON PARADOX	Sentipolc14
+193472244905803777	#ultimaparola #Grillo come #Gesù ? A quanto pare dice solo #verità	VRAI	IMPLICIT	ANALOGY	Sentipolc14
+193594778817019904	@VVeronicaMN #Grillo è anni che non fà più il comico...loro sono decenni che fanno i buffoni di corte..:)) con tutti i loro servetti	VRAI	IMPLICIT	ANALOGY	Sentipolc14
+194114010499653632	Beh certo, tenere il cellulare al bar in tasca vicino alle parti intime ci salverà tutti dal tumore. Udine cell free http://t.co/BnQ6lJ65	VRAI	EXPLICIT	EX:CONTEXT SHIFT	Sentipolc14
+194537371360956416	#portaaporta anche il plastico del Senato!!! Con #Vespa si potrebbe giocare al \"ce l'ho\" \"manca\", mi sa che punteggio è scontato.	VRAI	EXPLICIT	EX:CONTEXT SHIFT	Sentipolc14
+194701495101427712	@ilramone #Grillo sembra la soluzione a chi pensa che \"internet libero per tutti\" sia un ragionevole punto programmatico per un partito.	VRAI	EXPLICIT	ANALOGY	Sentipolc14
+194846840989036544	@NicolaLecca Con i prezzi che adotta,non sempre a buon mercato,oltre alla depressione fa venire la scogliosi x la \"comodità\" dei sedili!	VRAI	IMPLICIT	ANALOGY	Sentipolc14
+195133488062672896	@BerserkNina @italiadeidolori nulla di più sinistro... Se #Grillo è l alternativa, i nostri politici possono dormire tranquilli. W l Italia.	VRAI	EXPLICIT	EUPHEMISM	Sentipolc14
+195218773777715200	Attacca le banche, il parlamento e gli Stati Uniti. Se rivendica anche il corridoio di Danzica #Grillo può rifondare il Nazionalsocialismo.	VRAI	IMPLICIT	ANALOGY	Sentipolc14
+195753446450802688	@SkyTg24 #ditelavostra Bersani nel #Pd è il passato. Ma davvero qualcuno può immaginare #Grillo alla guida di un Paese?	VRAI	IMPLICIT	ANALOGY	Sentipolc14
+195803157970948097	Casini a #Grillo \"che venga in parlamento a fare i conti con la realtà\"...ho paura voglia dire che la realtà è ancora peggio...#m5s	VRAI	EXPLICIT	ANALOGY	Sentipolc14
+391804044052033537	RT @TweetComici: Quel momento in cui leggi la pagina di un libro e ti rendi conto di non aver capito niente.	VRAI	EXPLICIT	EX:OXIMORON PARADOX	Sentipolc14
+391810929257893888	Betty la fea mi ha traumatizzata ahahaha o.o	VRAI	IMPLICIT	OTHER	Sentipolc14
+391819425160372224	@marilumanzini li accomuna il numero e la qualità dei neuroni	VRAI	IMPLICIT	ANALOGY	Sentipolc14
+391819429878562816	Geografi nani ? HAHAHAH	VRAI	IMPLICIT	OTHER	Sentipolc14
+391827419172458496	RT @sheerjous: 'tipi di persone su twitter'  LA 'STUDIOSA'. Sta su twitter a dire che dovrebbe studiare invece di andare a farlo. http://t.…	VRAI	EXPLICIT	ANALOGY	Sentipolc14
+391878271438045185	più che bipolaristi, gli italiani sono bipolari	VRAI	EXPLICIT	ANALOGY	Sentipolc14
+391880260234772480	Oggi pranzo da nonna. Tornerò rotolando	VRAI	EXPLICIT	EX:OXIMORON PARADOX	Sentipolc14
+391929953890996224	su facebook scrivono le stesse cose di twitter...SI MA QUELLE DI 5 MESI FA...caro facebook aggiornati..	VRAI	EXPLICIT	ANALOGY	Sentipolc14
+391936441519177728	RT @DushElena: Facebook, ci sono 3 tipi di foto profilo: 1)tette-culo.  2)riga laterale tattica che copre tutta la faccia  3)foto occhio(ri…	VRAI	IMPLICIT	OTHER	Sentipolc14
+391936441825386496	RT @sheerjous: 'tipi di persone su twitter'  L'INNAMORATA. Lei che trova il fidanzato su twitter. http://t.co/QV6Jqxf6hQ	VRAI	EXPLICIT	ANALOGY	Sentipolc14
+391943449567821824	RT @Frank_slaugh: Ma esattamente, Valerio Scanu a quale specie vivente appartiene?	VRAI	EXPLICIT	RHETORICAL QUESTION	Sentipolc14
+391963355210317824	RT @Maxxie_: Ho un complesso di inferiorità verso il mio computer perché lui è più intelligente di me	VRAI	EXPLICIT	ANALOGY	Sentipolc14
+391963357118730240	@barbaranargdr hahahahha ma tu si scem uu *ride*	VRAI	IMPLICIT	OTHER	Sentipolc14
+391965196782407681	GIUSTO DOBBIAMO FARE LORO LA DANZA DELLA PIOGGIA COSI' SONO CONTENTI..............!!!!!!!!!!!! http://t.co/hQZ4qWGbVu	VRAI	EXPLICIT	EX:CONTEXT SHIFT	Sentipolc14
+391971463911440384	Se le cazzate che escono dal parlamento  fossero negoziabili in borsa  avremmo  risolto il problema  del debito pubblico	VRAI	EXPLICIT	ANALOGY	Sentipolc14
+392004045030043648	dicono che è vero che quando si muore, poi non ci si vede più'	VRAI	EXPLICIT	EX:OXIMORON PARADOX	Sentipolc14
+392016634569039872	RT @kidrauhlsv0jce: sono riuscita a cambiare il profilo, mo nevica.	VRAI	EXPLICIT	EX:OXIMORON PARADOX	Sentipolc14
+392027213732012032	@_cadeonthorne si! Ma te la do solo se mi dici se stai ancora con Nina *si illumina AHAHAHAH UWU*	VRAI	IMPLICIT	OTHER	Sentipolc14
+392027217162960898	RT @m4gny: Abbassare le aspettative da principe azzurro a "poco nuvoloso".	VRAI	EXPLICIT	EX:CONTEXT SHIFT	Sentipolc14
+392037006907564032	@lucignolo  dovrebbe fare pace col cervello	VRAI	IMPLICIT	ANALOGY	Sentipolc14
+393172914431733760	il mio lavoro e fare male alla gente e invece ...mi sono fatta male io...xD !	VRAI	IMPLICIT	ANALOGY	Sentipolc14
+393253611423416320	il bus sa di profumo di A&amp;F Anchio lo metto ma non così tanto! È tutto di ragazzino piccolino  ma con profumo e profumo addosso! Hahaha :')	VRAI	IMPLICIT	OTHER	Sentipolc14
+393253623268118528	@overlooki è come la storia del bidet. L'europa vuole che lo togliamo perché consumiamo troppa acqua	VRAI	IMPLICIT	IM:FALSE ASSERTION	Sentipolc14
+393270556549971968	RT @MimodiCreta: .@GianniCuperIoPD Compagno, si ricordi che quando verrà eletto, ciocorì e biancorì saranno gli unici snack ammessi! http:/…	VRAI	IMPLICIT	IM:FALSE ASSERTION	Sentipolc14
+393279571006881792	Comunque l'inverno è arrivato e io oggi più che un moscone in bagno mi son ritrovata un cacciatorpedinieri in decollo verticale!	VRAI	IMPLICIT	IM:FALSE ASSERTION	Sentipolc14
+393279581060210688	“dovrei ringraziare scooby doo,perchè è grazie a lui se ho imparato che i veri mostri sono le persone.”	VRAI	EXPLICIT	EX:OXIMORON PARADOX	Sentipolc14
+393284918861901824	RT @enricobertolino: Tempo fa Intercettato anche il cellulare di Bersani dagli USA ,nessuna protesta dal PD .pare gli abbian fatto 3 ricari…	VRAI	IMPLICIT	IM:FALSE ASSERTION	Sentipolc14
+393302798181617664	RT @TaniuzzaCalabra: “ non si preoccupi signor Obama, quando parlo di bombe mi riferisco alle bruschette alla 'nduja" #IntercettaME	VRAI	EXPLICIT	EX:CONTEXT SHIFT	Sentipolc14
+393306877758820352	Ho la risposta a tutte le vostre domande:  Si	VRAI	IMPLICIT	IM:FALSE ASSERTION	Sentipolc14
+393325930195996672	RT @AuroraSantop: Non ero bella: ero alta,bionda con gli occhi azzurri. PROPRIO 'NA SCHIFEZZA. #succedesolonellefanfiction	VRAI	IMPLICIT	ANALOGY	Sentipolc14
+393332330800349184	RT @astridula8: @jackansa ma i libri sono il meno ahaha ... Chi ha il #culone dove lo appoggia???	VRAI	IMPLICIT	OTHER	Sentipolc14
+393338377439047680	gli ha fatto la respirazione bocca-becco e il massaggio cardiaco, si è ripreso ed è volato via. meno canne prof, meno canne.	VRAI	IMPLICIT	IM:FALSE ASSERTION	Sentipolc14
+393351816358162432	Mi fanno morì sti anonimi AHAHAHAH — Non usare ' morire' in vano, non qua dentro, c'è già gente che lo fa troppo. http://t.co/Fk7pGaTrRY	VRAI	EXPLICIT	EX:OXIMORON PARADOX	Sentipolc14
+393351823269978112	@flawshar essere interrogata, civiltà inglese dove posso essere interrogata e fisica dove posso essere interrogata. figo eh?	VRAI	IMPLICIT	OTHER	Sentipolc14
+393356767779766273	@MareMalf vedo perfino gli occhi del gatto a cuore. Mi sento gravemente malata. @la_Stintinese @farfallafg1 @indivanados @ila_ilrm	VRAI	IMPLICIT	ANALOGY	Sentipolc14
+393435665280794624	RT @aryanistic: praticamente la nostra generazione sarà una massa di idioti tatuati con croci, stay strong sui polsi e infiniti dietro il c…	VRAI	EXPLICIT	EX:OXIMORON PARADOX	Sentipolc14
+393460492213448704	Dopo due ore che stavo studiando italiano, mi sono accorta che avevo preso il libro sbagliato. #benecosi	VRAI	EXPLICIT	EX:OXIMORON PARADOX	Sentipolc14
+393468290112442368	RT @harrysbooks: “@pottervato: se ci fosse demi direbbe che sono un mashup tra i jonas e gli one direction uscito male. #xf7” È VERO AHAHAH…	VRAI	IMPLICIT	ANALOGY	Sentipolc14
+395337999518810112	@oniramarf si lo yogurt bianco chi lo vuole scusa hahahah poi se vede che la vaschetta accanto è vuota lo vuole ancora di meno	VRAI	IMPLICIT	OTHER	Sentipolc14
+395425952471457792	“Vincere non e importante ma e l'unica cosa che conta“ -Gianpiero Boniperti	VRAI	EXPLICIT	ANALOGY	Sentipolc14
+395444316849856512	Il mi sento fortunato del google play c'ha una fantasia di merda :-)	VRAI	IMPLICIT	OTHER	Sentipolc14
+395455458645118976	Prof potrei andare in bagno?' 'non hai bisogno di andare al bagno!' OH,ALLORA VIENI CHE TI PISCIO IN TESTA VISTO CHE NON NE HO BISOGNO.	VRAI	EXPLICIT	HYPERBOLE	Sentipolc14
+395504736482623488	RT @Brunomgiordano: Non legalizzano la #cannabis Ma iper tassano le cartine. Questi sono geni della finanza. #governoletta #proibizionismo	VRAI	EXPLICIT	ANALOGY	Sentipolc14
+395504738848223232	RT @fedeejay: @matteo_curti number one da Rocco. Puoi morire felice.	VRAI	IMPLICIT	OTHER	Sentipolc14
+395504739255091200	“la felicità non ha prezzo“, la mia sì, costa circa 3,50€ e si chiama Nutella. #nonpuoimancare	VRAI	EXPLICIT	ANALOGY	Sentipolc14
+395509393695178752	i poeti costruiscono tweet sulla paura,paura da amare paura di restare....aggiungete pure paura che non ve la da...	VRAI	EXPLICIT	ANALOGY	Sentipolc14
+395516576663109632	RT @misSchianto: Spero sia colite. Ma ho paura sia amore.	VRAI	EXPLICIT	ANALOGY	Sentipolc14
+395553919155175424	Hahahaha oddio una ha postato una sua foto in bagno, solo che è un bagno pubblico e ci sono appesi i cartelli per l'igiene pubblica hahahaha	VRAI	EXPLICIT	EX:OXIMORON PARADOX	Sentipolc14
+395581192810295296	RT @insuavis: 'impacchettare gente a natale e spedirla a fanculo'	VRAI	EXPLICIT	HYPERBOLE	Sentipolc14
+395621359553761281	alle medie ero strafatta di acidi  non c'è altra spiegazione	VRAI	IMPLICIT	IM:FALSE ASSERTION	Sentipolc14
+395646414195539968	@tnksguys questa sera, solo in esclusiva per i twitteriani, gli scleri di ilenia. HAHAHAHAAHAHHA	VRAI	IMPLICIT	HYPERBOLE	Sentipolc14
+395667108992139264	@HereForMyIdolss se continui sarò costretto a darti l’oscar	VRAI	IMPLICIT	ANALOGY	Sentipolc14
+395683289622908929	@stefaniami c'era anche Barca con lui in elicottero! Ahahahahah	VRAI	IMPLICIT	IM:FALSE ASSERTION	Sentipolc14
+396530228706959360	RT @mattinieri: @Fiorello ciao, Rosario a dire la verità ieri sera Amadeus non si poteva guardare!! Made Cina!!!	VRAI	IMPLICIT	IM:FALSE ASSERTION	Sentipolc14
+396561574485577728	RT @LouTomlinfiglio: Uscire dalla stanza in pigiama e trovarsi davanti sconosciuti che ti fissano. Cos'è? Non avete mai visto un pigiama co…	VRAI	EXPLICIT	EX:OXIMORON PARADOX	Sentipolc14
+396561576909864961	RT @tnkzay: 'GENITORI VS FIGLI' pt.12  'io alla tua età non passavo tutto questo tempo a computer'  GRAZIE AL CAZZO NON ESISTEVA MANCO!	VRAI	EXPLICIT	HYPERBOLE	Sentipolc14
+396583380865019904	@jawisoath vabbè ti salto sopra io uu.	VRAI	EXPLICIT	EX:CONTEXT SHIFT	Sentipolc14
+396609729419816961	@inlukesarms faccio la metereologa HAHHA lo sai?uu	VRAI	IMPLICIT	RHETORICAL QUESTION	Sentipolc14
+396637954464305152	@chapellegs già la faccia della tua icon allude ad un pene invisibile #messaggisubliminali	VRAI	EXPLICIT	ANALOGY	Sentipolc14
+396641049952944128	RT @creamvato: “fla,sposati uno ricco,sei troppo costosa.“ crepo,grazie del consiglio papà.	VRAI	EXPLICIT	HYPERBOLE	Sentipolc14
+396647817302646786	Mh, dovrei scrivere qualcosa nella bio ma non so cosa lol	VRAI	EXPLICIT	EX:OXIMORON PARADOX	Sentipolc14
+396654706858409984	RT @azael: forse quella della figlia di Ligresti non era proprio fame, magari aveva solo voglia di qualcosa di buono	VRAI	IMPLICIT	ANALOGY	Sentipolc14
+396706143076372480	RT @davidexfabbri: Persino a Paperopoli i politici erano onesti, cazzo.	VRAI	IMPLICIT	IM:FALSE ASSERTION	Sentipolc14
+396726364071800832	RT @TweetComici: Ehi Martedì, lo so che non sei Lunedì, ma fai schifo lo stesso.	VRAI	EXPLICIT	HYPERBOLE	Sentipolc14
+396734172901171200	RT @cerebroteso: Quando morirò lasciate il mio profilo alla scienza.	VRAI	EXPLICIT	EX:OXIMORON PARADOX	Sentipolc14
+396740362712387584	AMMETTILO: il tuo idolo ha risposto almeno una volta ad una francese o australiana...ad un Dissennatore,ad Hagrid..ma non a te	VRAI	IMPLICIT	OTHER	Sentipolc14
+396757684835594240	RT @SapeviGiaChe: Esiste un sito di incontri per calzini spaiati.	VRAI	IMPLICIT	IM:FALSE ASSERTION	Sentipolc14
+507067521740963840	@nomfup #gruppodiascolto #labuonascuola odo stormir di fremiti. #italia unico grande collegio docenti oggi	VRAI	IMPLICIT	IM:FALSE ASSERTION	Buonascuola (Sentipolc16)
+507072991784476673	"@matteorenzi: Alle 10 appuntamento su http://t.co/lqabowVWYO #italiariparte #labuonascuola". Si si...preferisco una puntata di Walking Dead	VRAI	IMPLICIT	ANALOGY	Buonascuola (Sentipolc16)
+507074319911223296	@matteorenzi Grazie di avermi fatto fare 2 belle risate con il caffè. #litaliariparte #labuonascuola o semplicemente #poveraitalia	VRAI	IMPLICIT	EUPHEMISM	Buonascuola (Sentipolc16)
+507076440178053120	#Scuola, #Renzi: Supereremo il precariato e la supplentite, ma gli scatti dei docenti saranno basati sul merito #ecchevordi? #labuonascuola	VRAI	IMPLICIT	ANALOGY	Buonascuola (Sentipolc16)
+507081959617867776	@matteorenzi Più che la #labuonascuola direi #carascuola visto che ci vogliono più di 800 euro a pischello....quasi quanto 5 kg di gelato	VRAI	EXPLICIT	ANALOGY	Buonascuola (Sentipolc16)
+507082150055665665	#labuonascuola tutto qui?!?!? Tre minuti per rinviare tutto di un anno.	VRAI	IMPLICIT	RHETORICAL QUESTION	Buonascuola (Sentipolc16)
+507082207375413249	#RENZI UNA RIFORMA AL MESE? MA ANCHE NO! ▶http://t.co/2fVoJmF8Xz◀ #labuonascuola #tassadopotassa #tbcnograzie #M5S http://t.co/5O8g9X9tzU	VRAI	EXPLICIT	RHETORICAL QUESTION	Buonascuola (Sentipolc16)
+507082626973564928	Ecco, ci manca proprio che siano gli studenti a dire di cosa vogliano parlare a scuola http://t.co/1RsW5XwpMH #labuonascuola	VRAI	EXPLICIT	EX:OXIMORON PARADOX	Buonascuola (Sentipolc16)
+507083806927773696	"Più #inglese a #scuola per non parlarlo come me", parola di .@matteorenzi #riformascuola #labuonascuola http://t.co/sbzb3sMXp3	VRAI	IMPLICIT	IM:FALSE ASSERTION	Buonascuola (Sentipolc16)
+507084285996572672	"Poi nella legge di stabilità entro l’anno mettiamo i soldi" - è il Poi che mi preoccupa #labuonascuola http://t.co/TAseQg0C7S	VRAI	EXPLICIT	EX:OXIMORON PARADOX	Buonascuola (Sentipolc16)
+507084899107340288	La buona scuola « #PASSODOPOPASSO http://t.co/acqbcVwGl4 VALUTAZIONE PROFESSORI IN BASE AL MERITO..COME VALUTARLO ?...UN TOT AL KILO !	VRAI	EXPLICIT	EX:OXIMORON PARADOX	Buonascuola (Sentipolc16)
+507147774656536577	L'ITAGLIANO prima di tutto.... 😂 #labuonascuola http://t.co/1Lq9mE69GG	VRAI	EXPLICIT	HYPERBOLE	Buonascuola (Sentipolc16)
